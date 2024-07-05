@@ -14,3 +14,6 @@ streamlit
 
 Lab 4
 streamlit with model
+
+Lab 5
+FastAPI
