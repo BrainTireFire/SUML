@@ -17,3 +17,6 @@ streamlit with model
 
 Lab 5
 FastAPI
+
+Lab 6
+Desktop app
