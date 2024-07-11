@@ -20,3 +20,6 @@ FastAPI
 
 Lab 6
 Desktop app
+
+Lab 7 
+Procject
