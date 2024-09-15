@@ -1,7 +1,7 @@
 # SUML subject
 
 ## Description
-Subject from PJAKT. Data science, Machine learning, et
+Subject from PJAKT. Data science, Machine learning.
 
 Lab 1
 jupiter ML
